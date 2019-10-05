@@ -15,7 +15,7 @@
 
 [roadmap.sh](https://roadmap.sh)의 backend 로드맵 2단계에 딸려 있는 샘플 아이디어를 보고 만들게 되었다.
 
-### 2. fetch_reddit_posts
+### 2. fetch reddit posts
 
 2019.09.29 ~
 
